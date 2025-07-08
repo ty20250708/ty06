@@ -14,6 +14,6 @@
 
 
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/ty20250708/ty06 ）</span>
 
 
